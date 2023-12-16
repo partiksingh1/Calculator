@@ -1,0 +1,29 @@
+.text-center{
+    text-align: center;
+}
+
+/* .bg-red{
+     background: rgb(164, 103, 103); 
+} */
+
+.flex{
+    display: flex;
+}
+.flex-col{
+    flex-direction: column;
+}
+.mx-auto{
+    margin: auto;
+}
+.items-center{
+    align-items: center;
+}
+.input{
+    margin: 32px 0 20px 0;
+    width: 274px;
+    height: 45px;
+    justify-content: center;
+}
+.button{
+    font-size: medium;
+}
